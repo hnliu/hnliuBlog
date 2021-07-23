@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scene on 我的博客</title>
-    <link>https://example.com/tags/scene/</link>
+    <link>https://hnliublog.github.com/tags/scene/</link>
     <description>Recent content in scene on 我的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 09 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://hnliublog.github.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021年7月大杂烩</title>
-      <link>https://example.com/post/2021%E5%B9%B47%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
+      <link>https://hnliublog.github.com/post/2021%E5%B9%B47%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
       <pubDate>Fri, 09 Jul 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/2021%E5%B9%B47%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
+      <guid>https://hnliublog.github.com/post/2021%E5%B9%B47%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
       <description>&lt;h3 id=&#34;flex-布局教程语法篇&#34;&gt;Flex 布局教程：语法篇&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html&#34;&gt;https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2021年6月大杂烩</title>
-      <link>https://example.com/post/2021%E5%B9%B46%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
+      <link>https://hnliublog.github.com/post/2021%E5%B9%B46%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
       <pubDate>Wed, 09 Jun 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/2021%E5%B9%B46%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
+      <guid>https://hnliublog.github.com/post/2021%E5%B9%B46%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
       <description>&lt;h3 id=&#34;关闭xshell后部署的项目自动关闭的解决办法亲测有效&#34;&gt;关闭xshell后，部署的项目自动关闭的解决办法。(亲测有效)&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>2021年5月大杂烩</title>
-      <link>https://example.com/post/2021%E5%B9%B45%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
+      <link>https://hnliublog.github.com/post/2021%E5%B9%B45%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
       <pubDate>Sun, 09 May 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/2021%E5%B9%B45%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
+      <guid>https://hnliublog.github.com/post/2021%E5%B9%B45%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
       <description>&lt;h3 id=&#34;flutter安装过程问题汇总&#34;&gt;Flutter安装过程问题汇总&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>2021年4月大杂烩</title>
-      <link>https://example.com/post/2021%E5%B9%B44%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
+      <link>https://hnliublog.github.com/post/2021%E5%B9%B44%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
       <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/2021%E5%B9%B44%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
+      <guid>https://hnliublog.github.com/post/2021%E5%B9%B44%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
       <description>&lt;h3 id=&#34;android-studio-如何搜索全部中文&#34;&gt;Android Studio 如何搜索全部中文&lt;/h3&gt;
 &lt;p&gt;通过正则表达式搜索  ^((?!(*|//)).)+[\u4e00-\u9fa5]，需要勾选 Regex 勾选项。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>教你安装Atom编辑器并使用震撼的编辑效果</title>
-      <link>https://example.com/post/%E6%95%99%E4%BD%A0%E5%AE%89%E8%A3%85atom%E7%BC%96%E8%BE%91%E5%99%A8%E5%B9%B6%E4%BD%BF%E7%94%A8%E9%9C%87%E6%92%BC%E7%9A%84%E7%BC%96%E8%BE%91%E6%95%88%E6%9E%9C/</link>
+      <link>https://hnliublog.github.com/post/%E6%95%99%E4%BD%A0%E5%AE%89%E8%A3%85atom%E7%BC%96%E8%BE%91%E5%99%A8%E5%B9%B6%E4%BD%BF%E7%94%A8%E9%9C%87%E6%92%BC%E7%9A%84%E7%BC%96%E8%BE%91%E6%95%88%E6%9E%9C/</link>
       <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/%E6%95%99%E4%BD%A0%E5%AE%89%E8%A3%85atom%E7%BC%96%E8%BE%91%E5%99%A8%E5%B9%B6%E4%BD%BF%E7%94%A8%E9%9C%87%E6%92%BC%E7%9A%84%E7%BC%96%E8%BE%91%E6%95%88%E6%9E%9C/</guid>
+      <guid>https://hnliublog.github.com/post/%E6%95%99%E4%BD%A0%E5%AE%89%E8%A3%85atom%E7%BC%96%E8%BE%91%E5%99%A8%E5%B9%B6%E4%BD%BF%E7%94%A8%E9%9C%87%E6%92%BC%E7%9A%84%E7%BC%96%E8%BE%91%E6%95%88%E6%9E%9C/</guid>
       <description>&lt;p&gt;ATOM是由 GitHub 打造的一个现代的代码编辑器。 它开源免费跨平台，并且整合 GIT 并提供类似 SublimeText 的包管理功能，支持插件扩展，可配置性非常高。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2021年3月大杂烩</title>
-      <link>https://example.com/post/2021%E5%B9%B43%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
+      <link>https://hnliublog.github.com/post/2021%E5%B9%B43%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
       <pubDate>Tue, 09 Mar 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/2021%E5%B9%B43%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
+      <guid>https://hnliublog.github.com/post/2021%E5%B9%B43%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
       <description>&lt;h3 id=&#34;rxjava-backpressureutils-源码解析&#34;&gt;RxJava BackpressureUtils 源码解析&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>2021年1月大杂烩</title>
-      <link>https://example.com/post/2021%E5%B9%B41%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
+      <link>https://hnliublog.github.com/post/2021%E5%B9%B41%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</link>
       <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/2021%E5%B9%B41%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
+      <guid>https://hnliublog.github.com/post/2021%E5%B9%B41%E6%9C%88%E4%BB%BD%E6%9D%82%E8%AE%B0/</guid>
       <description>&lt;p&gt;Binder
 Android 系统为什么使用 Binder 实现跨进程通信，而不是使用 Local Socket 或者 Shared Memory。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2020年11月大杂烩</title>
-      <link>https://example.com/post/2020%E5%B9%B411%E6%9C%88%E6%9D%82%E8%AE%B0/</link>
+      <link>https://hnliublog.github.com/post/2020%E5%B9%B411%E6%9C%88%E6%9D%82%E8%AE%B0/</link>
       <pubDate>Mon, 09 Nov 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/2020%E5%B9%B411%E6%9C%88%E6%9D%82%E8%AE%B0/</guid>
+      <guid>https://hnliublog.github.com/post/2020%E5%B9%B411%E6%9C%88%E6%9D%82%E8%AE%B0/</guid>
       <description>&lt;h3 id=&#34;android-屏幕适配总结&#34;&gt;Android 屏幕适配总结&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>2020年10月大杂烩</title>
-      <link>https://example.com/post/2020%E5%B9%B410%E6%9C%88%E6%9D%82%E8%AE%B0/</link>
+      <link>https://hnliublog.github.com/post/2020%E5%B9%B410%E6%9C%88%E6%9D%82%E8%AE%B0/</link>
       <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/2020%E5%B9%B410%E6%9C%88%E6%9D%82%E8%AE%B0/</guid>
+      <guid>https://hnliublog.github.com/post/2020%E5%B9%B410%E6%9C%88%E6%9D%82%E8%AE%B0/</guid>
       <description>&lt;h3 id=&#34;一句话讲透epoll&#34;&gt;一句话讲透epoll&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>2020年9月大杂烩</title>
-      <link>https://example.com/post/2020%E5%B9%B49%E6%9C%88%E6%9D%82%E8%AE%B0/</link>
+      <link>https://hnliublog.github.com/post/2020%E5%B9%B49%E6%9C%88%E6%9D%82%E8%AE%B0/</link>
       <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/2020%E5%B9%B49%E6%9C%88%E6%9D%82%E8%AE%B0/</guid>
+      <guid>https://hnliublog.github.com/post/2020%E5%B9%B49%E6%9C%88%E6%9D%82%E8%AE%B0/</guid>
       <description>&lt;h3 id=&#34;关于-deadsystemexception-说的比较细致&#34;&gt;关于 DeadSystemException 说的比较细致&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>2020年6月大杂烩</title>
-      <link>https://example.com/post/2020%E5%B9%B46%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</link>
+      <link>https://hnliublog.github.com/post/2020%E5%B9%B46%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</link>
       <pubDate>Fri, 12 Jun 2020 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/post/2020%E5%B9%B46%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</guid>
+      <guid>https://hnliublog.github.com/post/2020%E5%B9%B46%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</guid>
       <description>&lt;h3 id=&#34;一些看到的比较好的技术文章&#34;&gt;一些看到的比较好的技术文章&lt;/h3&gt;
 &lt;p&gt;android View.post 到底干了啥&lt;/p&gt;</description>
     </item>
