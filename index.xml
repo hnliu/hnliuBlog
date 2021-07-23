@@ -6,13 +6,33 @@
     <description>Recent content in Learn and live on 我的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 18 Jul 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nginx配置Http和Https步骤</title>
+      <link>https://example.com/post/nginx%E9%85%8D%E7%BD%AEhttp%E5%92%8Chttps%E6%AD%A5%E9%AA%A4/</link>
+      <pubDate>Wed, 21 Jul 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://example.com/post/nginx%E9%85%8D%E7%BD%AEhttp%E5%92%8Chttps%E6%AD%A5%E9%AA%A4/</guid>
+      <description>&lt;h3 id=&#34;一篇关于nginx如何配置http和https的简单记录&#34;&gt;一篇关于nginx如何配置Http和Https的简单记录&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>上线流程汇总</title>
+      <link>https://example.com/post/%E4%B8%8A%E7%BA%BF%E6%B5%81%E7%A8%8B%E6%B1%87%E6%80%BB/</link>
+      <pubDate>Wed, 21 Jul 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://example.com/post/%E4%B8%8A%E7%BA%BF%E6%B5%81%E7%A8%8B%E6%B1%87%E6%80%BB/</guid>
+      <description>&lt;h3 id=&#34;客户端相关&#34;&gt;客户端相关&lt;/h3&gt;
+&lt;p&gt;性能优化
+使用 leakcanary 检测内存泄露&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>内部跳转链接</title>
-      <link>https://example.com/post/chapter-7/</link>
+      <link>https://example.com/post/%E5%86%85%E9%83%A8%E8%B7%B3%E8%BD%AC%E9%93%BE%E6%8E%A5/</link>
       <pubDate>Sun, 18 Jul 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-7/</guid>
+      <guid>https://example.com/post/%E5%86%85%E9%83%A8%E8%B7%B3%E8%BD%AC%E9%93%BE%E6%8E%A5/</guid>
       <description>&lt;h3 id=&#34;通过首页推荐下分类的topicid跳转topicid不传则跳转到推荐下的热门&#34;&gt;通过首页推荐下分类的topicId跳转(topicId不传则跳转到推荐下的热门)&lt;/h3&gt;</description>
     </item>
     
@@ -133,19 +153,19 @@ Android 系统为什么使用 Binder 实现跨进程通信，而不是使用 Loc
     
     <item>
       <title>2020年8月大杂烩</title>
-      <link>https://example.com/post/chapter-6/</link>
+      <link>https://example.com/post/2020%E5%B9%B48%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</link>
       <pubDate>Fri, 14 Aug 2020 11:25:05 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-6/</guid>
+      <guid>https://example.com/post/2020%E5%B9%B48%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</guid>
       <description>&lt;h3 id=&#34;一些比较好用的-android-stuido-快捷键&#34;&gt;一些比较好用的 Android Stuido 快捷键&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>2020年7月大杂烩</title>
-      <link>https://example.com/post/chapter-5/</link>
+      <link>https://example.com/post/2020%E5%B9%B47%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</link>
       <pubDate>Mon, 13 Jul 2020 11:15:58 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-5/</guid>
+      <guid>https://example.com/post/2020%E5%B9%B47%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</guid>
       <description>&lt;h3 id=&#34;一篇关于-android-系统启动及-app-启动讲解的非常清楚的文章&#34;&gt;一篇关于 android 系统启动及 app 启动讲解的非常清楚的文章&lt;/h3&gt;</description>
     </item>
     

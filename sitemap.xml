@@ -3,11 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2021-07-18T11:00:59-04:00</lastmod>
+    <lastmod>2021-07-21T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/chapter-7/</loc>
+    <loc>https://example.com/post/nginx%E9%85%8D%E7%BD%AEhttp%E5%92%8Chttps%E6%AD%A5%E9%AA%A4/</loc>
+    <lastmod>2021-07-21T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://example.com/post/%E4%B8%8A%E7%BA%BF%E6%B5%81%E7%A8%8B%E6%B1%87%E6%80%BB/</loc>
+    <lastmod>2021-07-21T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://example.com/post/%E5%86%85%E9%83%A8%E8%B7%B3%E8%BD%AC%E9%93%BE%E6%8E%A5/</loc>
     <lastmod>2021-07-18T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -82,12 +92,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/chapter-6/</loc>
+    <loc>https://example.com/post/2020%E5%B9%B48%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</loc>
     <lastmod>2020-08-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/chapter-5/</loc>
+    <loc>https://example.com/post/2020%E5%B9%B47%E6%9C%88%E5%A4%A7%E6%9D%82%E7%83%A9/</loc>
     <lastmod>2020-07-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
